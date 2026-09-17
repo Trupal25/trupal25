@@ -38,9 +38,7 @@
 | **Repo Structure Exporter** | VS Code extension that exports your repo's tree in LLM-friendly formats, with an interactive dependency graph and an MCP server to feed codebase context into AI tools. | VS Code API · TypeScript · React Flow · MCP | [GitHub][rse-gh] | [Open VSX][rse-vsx] |
 | **Knot UI** | A component library where components feel tied together — a collection of tasteful animations, shipped over time. | React · Tailwind · Motion · Three.js | — | [Docs][knot-docs] |
 | **ZenTube** | A self-hosted, ad-free video platform — a YouTube alternative built from scratch. | Next.js · TypeScript · Upload.io | [GitHub][zentube-gh] | [Demo][zentube-demo] |
-| **Ajaia** | Lightweight collaborative document editor — Google-Docs-inspired rich text, import from txt/md/docx, and share docs as editor or view-only. | Next.js · TipTap · SQLite | [GitHub][ajaia-gh] | [Live][ajaia-live] |
-| **Trafik** | Traffic event intelligence for Bengaluru — ML-powered event prediction, impact scoring, and a real-time command dashboard. | Next.js · FastAPI · ML | [GitHub][trafik-gh] | [Live][trafik-live] |
-| **Readmission Predictor** | End-to-end ML pipeline predicting 30-day hospital readmission risk for diabetic patients, with explainability and a live dashboard. | Python · scikit-learn · Streamlit | [GitHub][readmit-gh] | [Demo][readmit-demo] |
+| **ZenTube** | A self-hosted, ad-free video platform — a YouTube alternative built from scratch. | Next.js · TypeScript · Upload.io | [GitHub][zentube-gh] | [Demo][zentube-demo] |
 
 [cullr-gh]: https://github.com/Trupal25/Cullr-app
 [cullr-site]: https://cullr.trupal.me
@@ -50,12 +48,6 @@
 [knot-docs]: https://knot-ui.trupal.me
 [zentube-gh]: https://github.com/Trupal25/ZenTube
 [zentube-demo]: https://zen-tube-tau.vercel.app/
-[ajaia-gh]: https://github.com/Trupal25/ajaia
-[ajaia-live]: https://ajaia-notes.vercel.app
-[trafik-gh]: https://github.com/Trupal25/trafik
-[trafik-live]: https://trafik-mu.vercel.app
-[readmit-gh]: https://github.com/Trupal25/patient-readmission-diabetes
-[readmit-demo]: https://patient-readmission-diabetes.streamlit.app/
 
 ---
 
