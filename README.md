@@ -6,7 +6,7 @@
   , I'm Trupal Patel
 </h1>
 
-<h3 align="center">Design Engineer & Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <em>"I think in architecture and finish in pixels."</em>
@@ -21,23 +21,31 @@
 <h2 align="left">Let's Connect:</h2>
 
 <p align="left">
-  <a href="https://trupal.me" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Web/web1.svg" alt="Portfolio" /></a>
+  <a href="https://trupal.me" target="_blank"><img align="center" src=".github/assets/portfolio-badge.svg" alt="Portfolio" /></a>
   <a href="https://github.com/Trupal25" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub | Trupal25" /></a>
   <a href="https://www.linkedin.com/in/trupalpatel/" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn | trupalpatel" /></a>
   <a href="https://x.com/Trupal_19" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="X | @Trupal_19" /></a>
-  <a href="https://cal.com/trupalpatel/30min" target="_blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Google/google1.svg" alt="Book a call" /></a>
+  <a href="https://cal.com/trupalpatel/30min" target="_blank"><img align="center" src=".github/assets/book-call-badge.svg" alt="Book a call" /></a>
 </p>
 
 ---
 
 <h2 align="left">Projects I've Built:</h2>
 
-| Project | Description | Skills | Link |
-|---------|-------------|--------|------|
-| **Cullr** | Open-source Android gallery cleaner that runs entirely on-device. Uses an on-device image classifier to bulk-remove spam, screenshots, and clutter. No cloud, no uploads — data never leaves your phone. | React Native, Expo, TypeScript | [APK](https://github.com/Trupal25/Cullr-app/releases/download/v1.0.2/cullr-v1.0.2.apk) · [Site](https://cullr.trupal.me) · [Repo](https://github.com/Trupal25/cullr-app) |
-| **Repo Structure Exporter** | VS Code extension that exports your repo's tree in LLM-friendly formats. Ships with an interactive dependency graph and an MCP server to feed codebase context into AI tools. | VS Code API, TypeScript, React Flow, MCP | [Extension](https://open-vsx.org/extension/Trupxl/repo-structure-exporter) · [Repo](https://github.com/Trupal25/RepoExtractor-extension) |
-| **Knot UI** | A component library where components feel tied together. A collection of tasteful animations I ship over time. | React, Tailwind, Motion, Three.js | [Docs](https://knot-ui.trupal.me) · [Repo](https://github.com/Trupal25/knot-ui) |
-| **ZenTube** | A self-hosted, ad-free video platform — a YouTube alternative built from scratch. | Next.js, TypeScript, Upload.io | [Demo](https://zen-tube-tau.vercel.app) · [Repo](https://github.com/Trupal25/ZenTube) |
+| Project | What it is | Stack | Code | Live / Download |
+|---------|------------|-------|------|-----------------|
+| **Cullr** | On-device Android gallery cleaner — an image classifier bulk-removes spam, screenshots, and clutter. No cloud, no uploads; data never leaves the phone. | React Native · Expo · TypeScript | [GitHub][cullr-gh] | [Website][cullr-site] · [APK][cullr-apk] |
+| **Repo Structure Exporter** | VS Code extension that exports your repo's tree in LLM-friendly formats, with an interactive dependency graph and an MCP server to feed codebase context into AI tools. | VS Code API · TypeScript · React Flow · MCP | [GitHub][rse-gh] | [Open VSX][rse-vsx] |
+| **Knot UI** | A component library where components feel tied together — a collection of tasteful animations, shipped over time. | React · Tailwind · Motion · Three.js | — | [Docs][knot-docs] |
+| **ZenTube** | A self-hosted, ad-free video platform — a YouTube alternative built from scratch. | Next.js · TypeScript · Upload.io | [GitHub][zentube-gh] | — |
+
+[cullr-gh]: https://github.com/Trupal25/Cullr-app
+[cullr-site]: https://cullr.trupal.me
+[cullr-apk]: https://github.com/Trupal25/Cullr-app/releases/download/v1.0.2/cullr-v1.0.2.apk
+[rse-gh]: https://github.com/Trupal25/RepoExtractor-extension
+[rse-vsx]: https://open-vsx.org/extension/Trupxl/repo-structure-exporter
+[knot-docs]: https://knot-ui.trupal.me
+[zentube-gh]: https://github.com/Trupal25/ZenTube
 
 ---
 
@@ -59,18 +67,6 @@
   <img alt="Motion" src="https://img.shields.io/badge/-Motion-000000?style=flat-square&logo=framer&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Trupal25&show_icons=true&theme=prussian&hide_border=true&locale=en"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Trupal25&theme=prussian&hide_border=true"/>
-</div>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Trupal25&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true"/>
-</div>
 
 ---
 
