@@ -78,4 +78,3 @@
   <a href="https://x.com/Trupal_19" target="_blank">X</a>
 </p>
 
-<p align="center"><i>Built with intention, shipped with care.</i></p>
