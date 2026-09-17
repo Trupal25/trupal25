@@ -38,7 +38,6 @@
 | **Repo Structure Exporter** | VS Code extension that exports your repo's tree in LLM-friendly formats, with an interactive dependency graph and an MCP server to feed codebase context into AI tools. | VS Code API · TypeScript · React Flow · MCP | [GitHub][rse-gh] | [Open VSX][rse-vsx] |
 | **Knot UI** | A component library where components feel tied together — a collection of tasteful animations, shipped over time. | React · Tailwind · Motion · Three.js | — | [Docs][knot-docs] |
 | **ZenTube** | A self-hosted, ad-free video platform — a YouTube alternative built from scratch. | Next.js · TypeScript · Upload.io | [GitHub][zentube-gh] | [Demo][zentube-demo] |
-| **ZenTube** | A self-hosted, ad-free video platform — a YouTube alternative built from scratch. | Next.js · TypeScript · Upload.io | [GitHub][zentube-gh] | [Demo][zentube-demo] |
 
 [cullr-gh]: https://github.com/Trupal25/Cullr-app
 [cullr-site]: https://cullr.trupal.me
