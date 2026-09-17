@@ -37,7 +37,7 @@
 | **Cullr** | On-device Android gallery cleaner — an image classifier bulk-removes spam, screenshots, and clutter. No cloud, no uploads; data never leaves the phone. | React Native · Expo · TypeScript | [GitHub][cullr-gh] | [Website][cullr-site] · [APK][cullr-apk] |
 | **Repo Structure Exporter** | VS Code extension that exports your repo's tree in LLM-friendly formats, with an interactive dependency graph and an MCP server to feed codebase context into AI tools. | VS Code API · TypeScript · React Flow · MCP | [GitHub][rse-gh] | [Open VSX][rse-vsx] |
 | **Knot UI** | A component library where components feel tied together — a collection of tasteful animations, shipped over time. | React · Tailwind · Motion · Three.js | — | [Docs][knot-docs] |
-| **ZenTube** | A self-hosted, ad-free video platform — a YouTube alternative built from scratch. | Next.js · TypeScript · Upload.io | [GitHub][zentube-gh] | [Demo][zentube-demo] |
+| **ZenTube** | Self-hosted, ad-free video platform — upload and watch with subscriptions, playlists, history, and trending. | Next.js · TypeScript · Upload.io | [GitHub][zentube-gh] | [Demo][zentube-demo] |
 
 [cullr-gh]: https://github.com/Trupal25/Cullr-app
 [cullr-site]: https://cullr.trupal.me
